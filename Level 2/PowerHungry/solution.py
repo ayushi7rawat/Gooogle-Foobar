@@ -1,4 +1,8 @@
 def solution(xs):
+'''
+Problem Name: Google Foobar - PowerHungry
+Author: Ayushi Rawat
+'''
   res1 = []
   res2=[]
 
