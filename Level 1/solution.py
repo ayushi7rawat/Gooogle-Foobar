@@ -1,4 +1,8 @@
 def solution(area):
+'''
+Problem Name: Google Foobar - Solar Doomsday
+Author: Ayushi Rawat
+'''
   import math
   res = []
 
