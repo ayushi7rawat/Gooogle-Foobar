@@ -8,3 +8,5 @@ Google Foobar is Google’s secret hiring challenge.
 |	Gearing Up for Destruction	|	Level 2	| [Solution](https://github.com/ayushi7rawat/Gooogle-Foobar/tree/master/Level%202/GearingUpforDestruction) | 
 |	Prepare the Bunnies' Escape	|	Level 3	| [Solution](https://github.com/ayushi7rawat/Gooogle-Foobar/tree/master/Level%203) |
 |	Fuel Injection Perfection	|	Level 3	| [Solution](https://github.com/ayushi7rawat/Gooogle-Foobar/tree/master/Level%203/Fuel%20Injection%20Perfection) | 
+|	Doomsday Fuel	|	Level 3	| [Solution]https://github.com/ayushi7rawat/Gooogle-Foobar/tree/master/Level%203/Doomsday%20Fuel) | 
+|	coming soon	|	Level 4	| [Solution]() | 
